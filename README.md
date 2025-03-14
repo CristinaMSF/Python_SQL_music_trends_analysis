@@ -1,7 +1,7 @@
 # # Descripción del Proyecto
 El objetivo principal de este proyecto es analizar las tendencias musicales de los artistas seleccionados en el intervalo de tiempo entre 2019 y 2024. A partir de este análisis, se busca proporcionar insights y patrones que permitan a empresas de marketing desarrollar estrategias adecuadas para sus modelos de negocio.
 
-## Audiencia/Cliente:
+# # Audiencia/Cliente:
 Las empresas de marketing musical que necesiten comprender las dinámicas de las tendencias musicales para diseñar estrategias enfocadas en:
 
 -Lanzamientos de álbumes o sencillos.
