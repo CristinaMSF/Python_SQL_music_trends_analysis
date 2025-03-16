@@ -4,13 +4,13 @@ El objetivo principal de este proyecto es analizar las tendencias musicales de l
 # # Audiencia/Cliente:
 Las empresas de marketing musical que necesiten comprender las dinámicas de las tendencias musicales para diseñar estrategias enfocadas en:
 
--Lanzamientos de álbumes o sencillos.
-
--Promociones de conciertos y giras.
-
 -Campañas publicitarias dirigidas a audiencias específicas.
 
+-Lanzamientos de álbumes o sencillos.
+
 -Posicionamiento de marca a través de la música.
+
+-Promociones de conciertos y giras.
 
 # # Estado del Proyecto
 Las consultas SQL y Python están implementadas y probadas.
@@ -31,12 +31,12 @@ SQL
 Python
 
 # # Contribuyentes y desarrolladoras del proyecto
-María Guisado,
+Beatriz Mijancos,
 
 Cristina Martin,
 
-Beatriz Mijancos,
+Jazmin Sanchez,
 
-Patricia Pérez, 
+María Guisado,
 
-Jazmin Sanchez. 
+Patricia Pérez. 
